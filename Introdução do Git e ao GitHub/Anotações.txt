@@ -1,2 +1,2 @@
 Link para download do Git: https://git-scm.com/download
-O Git Bash é um teminal extendido para modificar o uso do Git.
+O Git Bash é um teminal extendido para otimizar o uso do Git.
